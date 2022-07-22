@@ -22,6 +22,9 @@ Taboların İlişki Diyagramı
 Program.cs görüntüsü:
 ![Ekran Görüntüsü (250)](https://user-images.githubusercontent.com/99509540/180516681-0969346a-9813-41bb-96de-c842473b0393.png)
 
+DBContext
+![Ekran Görüntüsü (256)](https://user-images.githubusercontent.com/99509540/180518221-a7bd4d5f-31cf-4eae-b698-ca40798d184a.png)
+
 ### Kod Tarafındaki Girdilerin Eklenmesi ile Tablolara Verilerin Eklenmesi Sonucu Tabloların Görüntüsü
 
 #### Accounts, Addresses, BankAddress , Banks Tabloları
