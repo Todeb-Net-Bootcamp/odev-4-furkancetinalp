@@ -14,7 +14,7 @@ Projede 8 adet sınıf vardır:
 7) Cards => Müşterinin kartını simgeleyen sınıftır.
 8) Addresses => Müşterinin adresini saklayan sınıftır.
 
-Tablolar arası ilişki türleri kod içerisinde açıklanmıştır.
+#### Tablolar arası ilişki türleri kod içerisinde açıklanmıştır.
 
 Taboların İlişki Diyagramı
 ![Diagram](https://user-images.githubusercontent.com/99509540/180515300-82648db0-efd4-42d2-8c37-ee5c6246c995.png)
