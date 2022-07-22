@@ -22,5 +22,8 @@ Program.cs görüntüsü:
 
 ### Kod Tarafındaki Girdilerin Eklenmesi ile Tablolara Verilerin Eklenmesi Sonucu Tabloların Görüntüsü
 
-Accounts, Addresses, BankAddress , Banks Tabloları
+#### Accounts, Addresses, BankAddress , Banks Tabloları
 ![Ekran Görüntüsü (252)](https://user-images.githubusercontent.com/99509540/180517007-13a06083-3720-49ce-b269-fec272b43aa3.png)
+
+#### Cards, CardTypes, CustomerList , Customers Tabloları
+![Ekran Görüntüsü (254)](https://user-images.githubusercontent.com/99509540/180517281-2704375b-5e86-40b0-adbe-3884db6b405d.png)
