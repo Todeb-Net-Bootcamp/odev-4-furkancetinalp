@@ -17,3 +17,10 @@ Projede 8 adet sınıf vardır:
 Taboların İlişki Diyagramı
 ![Diagram](https://user-images.githubusercontent.com/99509540/180515300-82648db0-efd4-42d2-8c37-ee5c6246c995.png)
 
+Program.cs görüntüsü:
+![Ekran Görüntüsü (250)](https://user-images.githubusercontent.com/99509540/180516681-0969346a-9813-41bb-96de-c842473b0393.png)
+
+### Kod Tarafındaki Girdilerin Eklenmesi ile Tablolara Verilerin Eklenmesi Sonucu Tabloların Görüntüsü
+
+Accounts, Addresses, BankAddress , Banks Tabloları
+![Ekran Görüntüsü (252)](https://user-images.githubusercontent.com/99509540/180517007-13a06083-3720-49ce-b269-fec272b43aa3.png)
