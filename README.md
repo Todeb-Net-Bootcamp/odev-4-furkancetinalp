@@ -2,7 +2,7 @@
 7. Hafta sonunda tanımlayacağımız Web Api Projesinin(BİTİRME PROJESİ DEĞİL) Codefirst yaklaşımı kullanılarak DataAccessLayer katmanını oluşturacağız. 
 # Son Teslim Tarihi: 22 Temmuz Cuma saat 23.00
 
-##PaymentApp
+## PaymentApp
 Ödeme Sistemi Projesi'nin Entity ve DAL Katmanlarının Oluşturulması
 Projede 8 adet sınıf vardır:
 1) Banks => Bankaların kendine ait Id ve ismi olmasını sağlayan sınıftır.
